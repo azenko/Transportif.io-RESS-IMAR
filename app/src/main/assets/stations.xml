@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stations>
+    <station>
+        <id>87545269</id>
+        <label>Ablon</label>
+    </station>
+    <station>
+        <id>87386052</id>
+        <label>Acheres Grand Cormier</label>
+    </station>
+    <station>
+        <id>87381657</id>
+        <label>Acheres Ville</label>
+    </station>
+    <station>
+        <id>87271460</id>
+        <label>Aeroport Ch. de Gaulle 1</label>
+    </station>
+    <station>
+        <id>87001479</id>
+        <label>Aeroport Ch. de Gaulle 2 TGV</label>
+    </station>
+    <station>
+        <id>87381491</id>
+        <label>Andresy</label>
+    </station>
+    <station>
+        <id>87543090</id>
+        <label>Angerville</label>
+    </station>
+    <station>
+        <id>87381848</id>
+        <label>Argenteuil</label>
+    </station>
+    <station>
+        <id>87545467</id>
+        <label>Arpajon</label>
+    </station>
+    <station>
+        <id>87381137</id>
+        <label>Asnieres sur Seine</label>
+    </station>
+    <station>
+        <id>87545251</id>
+        <label>Athis Mons</label>
+    </station>
+    <station>
+        <id>87386730</id>
+        <label>Aubergenville Elisabethville</label>
+    </station>
+    <station>
+        <id>87271411</id>
+        <label>Aulnay sous Bois</label>
+    </station>
+    <station>
+        <id>87276543</id>
+        <label>Auvers sur Oise</label>
+    </station>
+    <station>
+        <id>87543207</id>
+        <label>Avenue du Pdt Kennedy</label>
+    </station>
+    <station>
+        <id>87381038</id>
+        <label>Avenue Foch</label>
+    </station>
+    <station>
+        <id>87381046</id>
+        <label>Avenue Henri Martin</label>
+    </station>
+    <station>
+        <id>87684191</id>
+        <label>Bagneaux sur Loing</label>
+    </station>
+    <station>
+        <id>87681437</id>
+        <label>Ballancourt</label>
+    </station>
+    <station>
+        <id>87382002</id>
+        <label>Becon les Bruyeres</label>
+    </station>
+    <station>
+        <id>87393116</id>
+        <label>Bellevue</label>
+    </station>
+    <station>
+        <id>87276550</id>
+        <label>Belloy Saint-Martin</label>
+    </station>
+    <station>
+        <id>87276642</id>
+        <label>Bessancourt</label>
+    </station>
+    <station>
+        <id>87393363</id>
+        <label>Beynes</label>
+    </station>
+    <station>
+        <id>87328328</id>
+        <label>Bibliotheque François Mitterrand</label>
+    </station>
+    <station>
+        <id>87393546</id>
+        <label>Bievres</label>
+    </station>
+    <station>
+        <id>87684407</id>
+        <label>Boigneville</label>
+    </station>
+    <station>
+        <id>87381079</id>
+        <label>Bois Colombes</label>
+    </station>
+    <station>
+        <id>87682203</id>
+        <label>Bois le Roi</label>
+    </station>
+    <station>
+        <id>87682518</id>
+        <label>Boissise le Roi</label>
+    </station>
+    <station>
+        <id>87381152</id>
+        <label>Boissy l'aillerie</label>
+    </station>
+    <station>
+        <id>87113407</id>
+        <label>Bondy</label>
+    </station>
+    <station>
+        <id>87415893</id>
+        <label>Bonnieres</label>
+    </station>
+    <station>
+        <id>87276444</id>
+        <label>Boran sur Oise</label>
+    </station>
+    <station>
+        <id>87276485</id>
+        <label>Bouffemont Moisselles</label>
+    </station>
+    <station>
+        <id>87382440</id>
+        <label>Bougival</label>
+    </station>
+    <station>
+        <id>87543181</id>
+        <label>Boulainvilliers</label>
+    </station>
+    <station>
+        <id>87545178</id>
+        <label>Bouray</label>
+    </station>
+    <station>
+        <id>87684118</id>
+        <label>Bourron Marlotte Grez</label>
+    </station>
+    <station>
+        <id>87682138</id>
+        <label>Boussy Saint-Antoine</label>
+    </station>
+    <station>
+        <id>87681478</id>
+        <label>Boutigny</label>
+    </station>
+    <station>
+        <id>87545194</id>
+        <label>Bretigny</label>
+    </station>
+    <station>
+        <id>87545483</id>
+        <label>Breuillet Bruyeres le Chetel</label>
+    </station>
+    <station>
+        <id>87545491</id>
+        <label>Breuillet Village</label>
+    </station>
+    <station>
+        <id>87381624</id>
+        <label>Breval</label>
+    </station>
+    <station>
+        <id>87682120</id>
+        <label>Brunoy</label>
+    </station>
+    <station>
+        <id>87276451</id>
+        <label>Bruyeres sur Oise</label>
+    </station>
+    <station>
+        <id>87681510</id>
+        <label>Buno Gironville</label>
+    </station>
+    <station>
+        <id>87382655</id>
+        <label>Cergy le Haut</label>
+    </station>
+    <station>
+        <id>87381905</id>
+        <label>Cergy Prefecture</label>
+    </station>
+    <station>
+        <id>87382499</id>
+        <label>Cergy Saint-Christophe</label>
+    </station>
+    <station>
+        <id>87276063</id>
+        <label>Cernay</label>
+    </station>
+    <station>
+        <id>87682161</id>
+        <label>Cesson</label>
+    </station>
+    <station>
+        <id>87545152</id>
+        <label>Chamarande</label>
+    </station>
+    <station>
+        <id>87276519</id>
+        <label>Champagne sur Oise</label>
+    </station>
+    <station>
+        <id>87682450</id>
+        <label>Champagne sur Seine</label>
+    </station>
+    <station>
+        <id>87115873</id>
+        <label>Champbenoist Poigny</label>
+    </station>
+    <station>
+        <id>87276030</id>
+        <label>Champ de Courses d'Enghien</label>
+    </station>
+    <station>
+        <id>87393058</id>
+        <label>Champ de Mars Tour Eiffel</label>
+    </station>
+    <station>
+        <id>87116509</id>
+        <label>Changis Saint-Jean</label>
+    </station>
+    <station>
+        <id>87381475</id>
+        <label>Chanteloup les Vignes</label>
+    </station>
+    <station>
+        <id>87276113</id>
+        <label>Chantilly Gouvieux</label>
+    </station>
+    <station>
+        <id>87276162</id>
+        <label>Chaponval</label>
+    </station>
+    <station>
+        <id>87381194</id>
+        <label>Chars</label>
+    </station>
+    <station>
+        <id>87682419</id>
+        <label>Chartrettes</label>
+    </station>
+    <station>
+        <id>87116582</id>
+        <label>Chateau Thierry</label>
+    </station>
+    <station>
+        <id>87758607</id>
+        <label>Chatelet les Halles</label>
+    </station>
+    <station>
+        <id>87381228</id>
+        <label>Chaumont en Vexin</label>
+    </station>
+    <station>
+        <id>87382333</id>
+        <label>Chaville Rive Droite</label>
+    </station>
+    <station>
+        <id>87393207</id>
+        <label>Chaville Rive Gauche</label>
+    </station>
+    <station>
+        <id>87393173</id>
+        <label>Chaville Velizy</label>
+    </station>
+    <station>
+        <id>87116111</id>
+        <label>Chelles Gournay</label>
+    </station>
+    <station>
+        <id>87546317</id>
+        <label>Chemin d'Antony</label>
+    </station>
+    <station>
+        <id>87116574</id>
+        <label>Chezy sur Marne</label>
+    </station>
+    <station>
+        <id>87393637</id>
+        <label>Chilly Mazarin</label>
+    </station>
+    <station>
+        <id>87545285</id>
+        <label>Choisy le Roi</label>
+    </station>
+    <station>
+        <id>87391565</id>
+        <label>Clamart</label>
+    </station>
+    <station>
+        <id>87381129</id>
+        <label>Clichy Levallois</label>
+    </station>
+    <station>
+        <id>87393272</id>
+        <label>Coignieres</label>
+    </station>
+    <station>
+        <id>87381087</id>
+        <label>Colombes</label>
+    </station>
+    <station>
+        <id>87682146</id>
+        <label>Combs la Ville Quincy</label>
+    </station>
+    <station>
+        <id>87272047</id>
+        <label>Compans</label>
+    </station>
+    <station>
+        <id>87381459</id>
+        <label>Conflans Fin d'Oise</label>
+    </station>
+    <station>
+        <id>87381897</id>
+        <label>Conflans Sainte-Honorine</label>
+    </station>
+    <station>
+        <id>87681007</id>
+        <label>Corbeil Essonnes</label>
+    </station>
+    <station>
+        <id>87381863</id>
+        <label>Cormeilles en Parisis</label>
+    </station>
+    <station>
+        <id>87116731</id>
+        <label>Couilly Saint-Germain</label>
+    </station>
+    <station>
+        <id>87116301</id>
+        <label>Coulommiers</label>
+    </station>
+    <station>
+        <id>87382200</id>
+        <label>Courbevoie</label>
+    </station>
+    <station>
+        <id>87116772</id>
+        <label>Crecy la Chapelle</label>
+    </station>
+    <station>
+        <id>87276006</id>
+        <label>Creil</label>
+    </station>
+    <station>
+        <id>87271593</id>
+        <label>Crepy en Valois</label>
+    </station>
+    <station>
+        <id>87608802</id>
+        <label>Creteil Pompadour</label>
+    </station>
+    <station>
+        <id>87116640</id>
+        <label>Crouy sur Ourcq</label>
+    </station>
+    <station>
+        <id>87271536</id>
+        <label>Dammartin Juilly Saint-Mard</label>
+    </station>
+    <station>
+        <id>87276345</id>
+        <label>Deuil Montmagny</label>
+    </station>
+    <station>
+        <id>87276436</id>
+        <label>Domont</label>
+    </station>
+    <station>
+        <id>87684233</id>
+        <label>Dordives</label>
+    </station>
+    <station>
+        <id>87545525</id>
+        <label>Dourdan</label>
+    </station>
+    <station>
+        <id>87540179</id>
+        <label>Dourdan la Foret</label>
+    </station>
+    <station>
+        <id>87271403</id>
+        <label>Drancy</label>
+    </station>
+    <station>
+        <id>87393488</id>
+        <label>Dreux</label>
+    </station>
+    <station>
+        <id>87276394</id>
+        <label>Ecouen Ezanville</label>
+    </station>
+    <station>
+        <id>87545475</id>
+        <label>Egly</label>
+    </station>
+    <station>
+        <id>87116046</id>
+        <label>Emerainville Pontault Combault</label>
+    </station>
+    <station>
+        <id>87276022</id>
+        <label>Enghien les Bains</label>
+    </station>
+    <station>
+        <id>87545228</id>
+        <label>Epinay sur Orge</label>
+    </station>
+    <station>
+        <id>87271148</id>
+        <label>Epinay sur Seine</label>
+    </station>
+    <station>
+        <id>87271122</id>
+        <label>Epinay Villetaneuse</label>
+    </station>
+    <station>
+        <id>87276147</id>
+        <label>Epluches</label>
+    </station>
+    <station>
+        <id>87386763</id>
+        <label>Epone Mezieres</label>
+    </station>
+    <station>
+        <id>87381418</id>
+        <label>Eragny Neuville</label>
+    </station>
+    <station>
+        <id>87276055</id>
+        <label>Ermont Eaubonne</label>
+    </station>
+    <station>
+        <id>87534131</id>
+        <label>Ermont Eaubonne</label>
+    </station>
+    <station>
+        <id>87276584</id>
+        <label>Ermont Halte</label>
+    </station>
+    <station>
+        <id>87116327</id>
+        <label>Esbly</label>
+    </station>
+    <station>
+        <id>87681601</id>
+        <label>Essonnes Robinson</label>
+    </station>
+    <station>
+        <id>87545137</id>
+        <label>Etampes</label>
+    </station>
+    <station>
+        <id>87545145</id>
+        <label>Etrechy</label>
+    </station>
+    <station>
+        <id>87681387</id>
+        <label>Evry Courcouronnes Centre</label>
+    </station>
+    <station>
+        <id>87681361</id>
+        <label>Evry Val de Seine</label>
+    </station>
+    <station>
+        <id>87116277</id>
+        <label>Faremoutiers Pommeuse</label>
+    </station>
+    <station>
+        <id>87684241</id>
+        <label>Ferrieres Fontenay</label>
+    </station>
+    <station>
+        <id>87682211</id>
+        <label>Fontainebleau Avon</label>
+    </station>
+    <station>
+        <id>87682427</id>
+        <label>Fontaine le Port</label>
+    </station>
+    <station>
+        <id>87393405</id>
+        <label>Fontenay le Fleury</label>
+    </station>
+    <station>
+        <id>87276071</id>
+        <label>Franconville Le Plessis Bouchard</label>
+    </station>
+    <station>
+        <id>87276659</id>
+        <label>Frepillon</label>
+    </station>
+    <station>
+        <id>87113514</id>
+        <label>Gagny</label>
+    </station>
+    <station>
+        <id>87393439</id>
+        <label>Garancieres La Queue</label>
+    </station>
+    <station>
+        <id>87382259</id>
+        <label>Garches Marnes la Coquette</label>
+    </station>
+    <station>
+        <id>87381566</id>
+        <label>Gargenville</label>
+    </station>
+    <station>
+        <id>87276196</id>
+        <label>Garges Sarcelles</label>
+    </station>
+    <station>
+        <id>87393348</id>
+        <label>Gazeran</label>
+    </station>
+    <station>
+        <id>87271205</id>
+        <label>Gennevilliers</label>
+    </station>
+    <station>
+        <id>87381244</id>
+        <label>Gisors</label>
+    </station>
+    <station>
+        <id>87276246</id>
+        <label>Goussainville</label>
+    </station>
+    <station>
+        <id>87681353</id>
+        <label>Grand Bourg</label>
+    </station>
+    <station>
+        <id>87393645</id>
+        <label>Gravigny Balizy</label>
+    </station>
+    <station>
+        <id>87116012</id>
+        <label>Gretz Armainvilliers</label>
+    </station>
+    <station>
+        <id>87681379</id>
+        <label>Grigny Centre</label>
+    </station>
+    <station>
+        <id>87276360</id>
+        <label>Groslay</label>
+    </station>
+    <station>
+        <id>87276592</id>
+        <label>Gros Noyer Saint-Prix</label>
+    </station>
+    <station>
+        <id>87116269</id>
+        <label>Guerard la Celle sur Morin</label>
+    </station>
+    <station>
+        <id>87545129</id>
+        <label>Guillerval</label>
+    </station>
+    <station>
+        <id>87281899</id>
+        <label>Haussmann Saint-Lazare</label>
+    </station>
+    <station>
+        <id>87381889</id>
+        <label>Herblay</label>
+    </station>
+    <station>
+        <id>87682435</id>
+        <label>Hericy</label>
+    </station>
+    <station>
+        <id>87393462</id>
+        <label>Houdan</label>
+    </station>
+    <station>
+        <id>87386409</id>
+        <label>Houilles Carrieres sur Seine</label>
+    </station>
+    <station>
+        <id>87393561</id>
+        <label>Igny</label>
+    </station>
+    <station>
+        <id>87393033</id>
+        <label>Invalides</label>
+    </station>
+    <station>
+        <id>87116616</id>
+        <label>Isles Armentieres Congis</label>
+    </station>
+    <station>
+        <id>87381574</id>
+        <label>Issou Porcheville</label>
+    </station>
+    <station>
+        <id>87393074</id>
+        <label>Issy</label>
+    </station>
+    <station>
+        <id>87393306</id>
+        <label>Issy Val de Seine</label>
+    </station>
+    <station>
+        <id>87545301</id>
+        <label>Ivry sur Seine</label>
+    </station>
+    <station>
+        <id>87393066</id>
+        <label>Javel</label>
+    </station>
+    <station>
+        <id>87393512</id>
+        <label>Jouy en Josas</label>
+    </station>
+    <station>
+        <id>87545244</id>
+        <label>Juvisy</label>
+    </station>
+    <station>
+        <id>87381558</id>
+        <label>Juziers</label>
+    </station>
+    <station>
+        <id>87271171</id>
+        <label>La Barre Ormesson</label>
+    </station>
+    <station>
+        <id>87276287</id>
+        <label>La Borne Blanche</label>
+    </station>
+    <station>
+        <id>87382432</id>
+        <label>La Celle Saint-Cloud</label>
+    </station>
+    <station>
+        <id>87271304</id>
+        <label>La Courneuve Aubervilliers</label>
+    </station>
+    <station>
+        <id>87758011</id>
+        <label>La Defense Grande Arche</label>
+    </station>
+    <station>
+        <id>87681452</id>
+        <label>La Ferte Alais</label>
+    </station>
+    <station>
+        <id>87116673</id>
+        <label>La Ferte Milon</label>
+    </station>
+    <station>
+        <id>87116517</id>
+        <label>La Ferte sous Jouarre</label>
+    </station>
+    <station>
+        <id>87381871</id>
+        <label>La Frette Montigny</label>
+    </station>
+    <station>
+        <id>87386003</id>
+        <label>La Garenne Colombes</label>
+    </station>
+    <station>
+        <id>87116319</id>
+        <label>Lagny Thorigny</label>
+    </station>
+    <station>
+        <id>87682476</id>
+        <label>La Grande Paroisse</label>
+    </station>
+    <station>
+        <id>87545459</id>
+        <label>La Norville Saint-Germain les A.</label>
+    </station>
+    <station>
+        <id>87164798</id>
+        <label>La Plaine Stade de France</label>
+    </station>
+    <station>
+        <id>87545160</id>
+        <label>Lardy</label>
+    </station>
+    <station>
+        <id>87393256</id>
+        <label>La Verriere</label>
+    </station>
+    <station>
+        <id>87381202</id>
+        <label>La Villetertre</label>
+    </station>
+    <station>
+        <id>87271478</id>
+        <label>Le Blanc Mesnil</label>
+    </station>
+    <station>
+        <id>87271395</id>
+        <label>Le Bourget</label>
+    </station>
+    <station>
+        <id>87681395</id>
+        <label>Le Bras de Fer Evry Genopole</label>
+    </station>
+    <station>
+        <id>87113522</id>
+        <label>Le Chenay Gagny</label>
+    </station>
+    <station>
+        <id>87681635</id>
+        <label>Le Coudray Montceau</label>
+    </station>
+    <station>
+        <id>87682179</id>
+        <label>Le Mee</label>
+    </station>
+    <station>
+        <id>87393298</id>
+        <label>Le Perray</label>
+    </station>
+    <station>
+        <id>87271551</id>
+        <label>Le Plessis Belleville</label>
+    </station>
+    <station>
+        <id>87681627</id>
+        <label>Le Plessis Chenet</label>
+    </station>
+    <station>
+        <id>87113472</id>
+        <label>Le Raincy Villemomble Montfermeil</label>
+    </station>
+    <station>
+        <id>87492108</id>
+        <label>Les Ardoines</label>
+    </station>
+    <station>
+        <id>87113779</id>
+        <label>Les Boullereaux Champigny</label>
+    </station>
+    <station>
+        <id>87386664</id>
+        <label>Les Clairieres de Verneuil</label>
+    </station>
+    <station>
+        <id>87393280</id>
+        <label>Les Essarts le Roi</label>
+    </station>
+    <station>
+        <id>87272146</id>
+        <label>Les Gresillons</label>
+    </station>
+    <station>
+        <id>87386680</id>
+        <label>Les Mureaux</label>
+    </station>
+    <station>
+        <id>87276238</id>
+        <label>Les Noues</label>
+    </station>
+    <station>
+        <id>87546226</id>
+        <label>Les Saules</label>
+    </station>
+    <station>
+        <id>87381095</id>
+        <label>Le Stade</label>
+    </station>
+    <station>
+        <id>87386300</id>
+        <label>Les Vallees</label>
+    </station>
+    <station>
+        <id>87113803</id>
+        <label>Les Yvris Noisy le Grand</label>
+    </station>
+    <station>
+        <id>87382473</id>
+        <label>L'Etang la Ville</label>
+    </station>
+    <station>
+        <id>87382366</id>
+        <label>Le Val d'Or</label>
+    </station>
+    <station>
+        <id>87681247</id>
+        <label>Le Vert de Maisons</label>
+    </station>
+    <station>
+        <id>87381210</id>
+        <label>Liancourt Saint-Pierre</label>
+    </station>
+    <station>
+        <id>87682153</id>
+        <label>Lieusaint Moissy</label>
+    </station>
+    <station>
+        <id>87381582</id>
+        <label>Limay</label>
+    </station>
+    <station>
+        <id>87276527</id>
+        <label>L'Isle Adam Parmain</label>
+    </station>
+    <station>
+        <id>87682401</id>
+        <label>Livry sur Seine</label>
+    </station>
+    <station>
+        <id>87116632</id>
+        <label>Lizy sur Ourcq</label>
+    </station>
+    <station>
+        <id>87393611</id>
+        <label>Longjumeau</label>
+    </station>
+    <station>
+        <id>87116137</id>
+        <label>Longueville</label>
+    </station>
+    <station>
+        <id>87382457</id>
+        <label>Louveciennes</label>
+    </station>
+    <station>
+        <id>87276253</id>
+        <label>Louvres</label>
+    </station>
+    <station>
+        <id>87276576</id>
+        <label>Luzarches</label>
+    </station>
+    <station>
+        <id>87281873</id>
+        <label>Magenta</label>
+    </station>
+    <station>
+        <id>87681155</id>
+        <label>Maisons Alfort Alfortville</label>
+    </station>
+    <station>
+        <id>87386425</id>
+        <label>Maisons Laffitte</label>
+    </station>
+    <station>
+        <id>87681486</id>
+        <label>Maisse</label>
+    </station>
+    <station>
+        <id>87684415</id>
+        <label>Malesherbes</label>
+    </station>
+    <station>
+        <id>87381509</id>
+        <label>Mantes la Jolie</label>
+    </station>
+    <station>
+        <id>87381590</id>
+        <label>Mantes Station</label>
+    </station>
+    <station>
+        <id>87393470</id>
+        <label>Marchezais Broue</label>
+    </station>
+    <station>
+        <id>87382812</id>
+        <label>Mareil Marly</label>
+    </station>
+    <station>
+        <id>87381715</id>
+        <label>Mareil sur Mauldre</label>
+    </station>
+    <station>
+        <id>87116665</id>
+        <label>Mareuil sur Ourcq</label>
+    </station>
+    <station>
+        <id>87116228</id>
+        <label>Marles en Brie</label>
+    </station>
+    <station>
+        <id>87382465</id>
+        <label>Marly le Roi</label>
+    </station>
+    <station>
+        <id>87545186</id>
+        <label>Marolles en Hurepoix</label>
+    </station>
+    <station>
+        <id>87393579</id>
+        <label>Massy Palaiseau</label>
+    </station>
+    <station>
+        <id>87383281</id>
+        <label>Massy Verrieres</label>
+    </station>
+    <station>
+        <id>87381723</id>
+        <label>Maule</label>
+    </station>
+    <station>
+        <id>87381483</id>
+        <label>Maurecourt</label>
+    </station>
+    <station>
+        <id>87116103</id>
+        <label>Meaux</label>
+    </station>
+    <station>
+        <id>87682005</id>
+        <label>Melun</label>
+    </station>
+    <station>
+        <id>87381616</id>
+        <label>Menerville</label>
+    </station>
+    <station>
+        <id>87681411</id>
+        <label>Mennecy</label>
+    </station>
+    <station>
+        <id>87276675</id>
+        <label>Meriel</label>
+    </station>
+    <station>
+        <id>87276667</id>
+        <label>Mery sur Oise</label>
+    </station>
+    <station>
+        <id>87393108</id>
+        <label>Meudon</label>
+    </station>
+    <station>
+        <id>87393082</id>
+        <label>Meudon Val Fleury</label>
+    </station>
+    <station>
+        <id>87381830</id>
+        <label>Meulan Hardricourt</label>
+    </station>
+    <station>
+        <id>87271528</id>
+        <label>Mitry Claye</label>
+    </station>
+    <station>
+        <id>87545111</id>
+        <label>Monnerville</label>
+    </station>
+    <station>
+        <id>87684001</id>
+        <label>Montargis</label>
+    </station>
+    <station>
+        <id>87682302</id>
+        <label>Montereau</label>
+    </station>
+    <station>
+        <id>87393892</id>
+        <label>Montfort l'Amaury Mere</label>
+    </station>
+    <station>
+        <id>87682104</id>
+        <label>Montgeron Crosne</label>
+    </station>
+    <station>
+        <id>87381160</id>
+        <label>Montgeroult Courcelles</label>
+    </station>
+    <station>
+        <id>87276089</id>
+        <label>Montigny Beauchamp</label>
+    </station>
+    <station>
+        <id>87684100</id>
+        <label>Montigny sur Loing</label>
+    </station>
+    <station>
+        <id>87382879</id>
+        <label>Montreuil</label>
+    </station>
+    <station>
+        <id>87116400</id>
+        <label>Montry Conde</label>
+    </station>
+    <station>
+        <id>87276493</id>
+        <label>Montsoult Maffliers</label>
+    </station>
+    <station>
+        <id>87682278</id>
+        <label>Moret Veneux les Sablons</label>
+    </station>
+    <station>
+        <id>87116087</id>
+        <label>Mormant</label>
+    </station>
+    <station>
+        <id>87116244</id>
+        <label>Mortcerf</label>
+    </station>
+    <station>
+        <id>87681403</id>
+        <label>Moulin Galant</label>
+    </station>
+    <station>
+        <id>87116285</id>
+        <label>Mouroux</label>
+    </station>
+    <station>
+        <id>87547307</id>
+        <label>Musee d'Orsay</label>
+    </station>
+    <station>
+        <id>87116095</id>
+        <label>Nangis</label>
+    </station>
+    <station>
+        <id>87386318</id>
+        <label>Nanterre Universite</label>
+    </station>
+    <station>
+        <id>87271577</id>
+        <label>Nanteuil le Haudouin</label>
+    </station>
+    <station>
+        <id>87116558</id>
+        <label>Nanteuil Saecy</label>
+    </station>
+    <station>
+        <id>87684126</id>
+        <label>Nemours Saint-Pierre</label>
+    </station>
+    <station>
+        <id>87381020</id>
+        <label>Neuilly Porte Maillot</label>
+    </station>
+    <station>
+        <id>87334482</id>
+        <label>Neuville Universite</label>
+    </station>
+    <station>
+        <id>87381731</id>
+        <label>Nezel Aulnay</label>
+    </station>
+    <station>
+        <id>87116566</id>
+        <label>Nogent l'Artaud Charly</label>
+    </station>
+    <station>
+        <id>87113746</id>
+        <label>Nogent Le Perreux</label>
+    </station>
+    <station>
+        <id>87276758</id>
+        <label>Nointel Mours</label>
+    </station>
+    <station>
+        <id>87393876</id>
+        <label>Noisy le Roi</label>
+    </station>
+    <station>
+        <id>87113217</id>
+        <label>Noisy le Sec</label>
+    </station>
+    <station>
+        <id>87681346</id>
+        <label>Orangis Bois de l'Epine</label>
+    </station>
+    <station>
+        <id>87393447</id>
+        <label>Orgerus Behoust</label>
+    </station>
+    <station>
+        <id>87546200</id>
+        <label>Orly Ville</label>
+    </station>
+    <station>
+        <id>87271585</id>
+        <label>Ormoy Villers</label>
+    </station>
+    <station>
+        <id>87276279</id>
+        <label>Orry la Ville Coye la Foret</label>
+    </station>
+    <station>
+        <id>87381145</id>
+        <label>Osny</label>
+    </station>
+    <station>
+        <id>87116020</id>
+        <label>Ozoir la Ferriere</label>
+    </station>
+    <station>
+        <id>87113209</id>
+        <label>Pantin</label>
+    </station>
+    <station>
+        <id>87271486</id>
+        <label>Parc des Expositions</label>
+    </station>
+    <station>
+        <id>87547026</id>
+        <label>Paris Austerlitz</label>
+    </station>
+    <station>
+        <id>87547000</id>
+        <label>Paris Austerlitz</label>
+    </station>
+    <station>
+        <id>87686667</id>
+        <label>Paris Bercy</label>
+    </station>
+    <station>
+        <id>87113001</id>
+        <label>Paris Est</label>
+    </station>
+    <station>
+        <id>87686006</id>
+        <label>Paris Gare de Lyon</label>
+    </station>
+    <station>
+        <id>87758581</id>
+        <label>Paris Gare de Lyon</label>
+    </station>
+    <station>
+        <id>87391003</id>
+        <label>Paris Montparnasse</label>
+    </station>
+    <station>
+        <id>87271007</id>
+        <label>Paris Nord</label>
+    </station>
+    <station>
+        <id>87271031</id>
+        <label>Paris Nord</label>
+    </station>
+    <station>
+        <id>87271023</id>
+        <label>Paris Nord</label>
+    </station>
+    <station>
+        <id>87384008</id>
+        <label>Paris Saint-Lazare</label>
+    </station>
+    <station>
+        <id>87391102</id>
+        <label>Paris Vaugirard</label>
+    </station>
+    <station>
+        <id>87381012</id>
+        <label>Pereire Levallois</label>
+    </station>
+    <station>
+        <id>87276469</id>
+        <label>Persan Beaumont</label>
+    </station>
+    <station>
+        <id>87393504</id>
+        <label>Petit Jouy Les Loges</label>
+    </station>
+    <station>
+        <id>87393652</id>
+        <label>Petit Vaux</label>
+    </station>
+    <station>
+        <id>87271163</id>
+        <label>Pierrefitte Stains</label>
+    </station>
+    <station>
+        <id>87276097</id>
+        <label>Pierrelaye</label>
+    </station>
+    <station>
+        <id>87393421</id>
+        <label>Plaisir Grignon</label>
+    </station>
+    <station>
+        <id>87393629</id>
+        <label>Plaisir les Clayes</label>
+    </station>
+    <station>
+        <id>87386573</id>
+        <label>Poissy</label>
+    </station>
+    <station>
+        <id>87381111</id>
+        <label>Pont Cardinet</label>
+    </station>
+    <station>
+        <id>87393041</id>
+        <label>Pont de l'Alma</label>
+    </station>
+    <station>
+        <id>87546192</id>
+        <label>Pont de Rungis Aeroport d'Orly</label>
+    </station>
+    <station>
+        <id>87393322</id>
+        <label>Pont du Garigliano</label>
+    </station>
+    <station>
+        <id>87682526</id>
+        <label>Ponthierry Pringy</label>
+    </station>
+    <station>
+        <id>87276139</id>
+        <label>Pontoise</label>
+    </station>
+    <station>
+        <id>87276154</id>
+        <label>Pont Petit</label>
+    </station>
+    <station>
+        <id>87393165</id>
+        <label>Porchefontaine</label>
+    </station>
+    <station>
+        <id>87111278</id>
+        <label>Porte de Clichy</label>
+    </station>
+    <station>
+        <id>87415679</id>
+        <label>Port-Villez</label>
+    </station>
+    <station>
+        <id>87276410</id>
+        <label>Precy sur Oise</label>
+    </station>
+    <station>
+        <id>87276501</id>
+        <label>Presles Courcelles</label>
+    </station>
+    <station>
+        <id>87116160</id>
+        <label>Provins</label>
+    </station>
+    <station>
+        <id>87382382</id>
+        <label>Puteaux</label>
+    </station>
+    <station>
+        <id>87393314</id>
+        <label>Rambouillet</label>
+    </station>
+    <station>
+        <id>87681338</id>
+        <label>Ris Orangis</label>
+    </station>
+    <station>
+        <id>87116038</id>
+        <label>Roissy en Brie</label>
+    </station>
+    <station>
+        <id>87654798</id>
+        <label>Rosa Parks</label>
+    </station>
+    <station>
+        <id>87113696</id>
+        <label>Rosny Bois Perrier</label>
+    </station>
+    <station>
+        <id>87113704</id>
+        <label>Rosny sous Bois</label>
+    </station>
+    <station>
+        <id>87415885</id>
+        <label>Rosny sur Seine</label>
+    </station>
+    <station>
+        <id>87546291</id>
+        <label>Rungis La Fraternelle</label>
+    </station>
+    <station>
+        <id>87545509</id>
+        <label>Saint-Cheron</label>
+    </station>
+    <station>
+        <id>87382358</id>
+        <label>Saint-Cloud</label>
+    </station>
+    <station>
+        <id>87393223</id>
+        <label>Saint-Cyr</label>
+    </station>
+    <station>
+        <id>87271015</id>
+        <label>Saint-Denis</label>
+    </station>
+    <station>
+        <id>87116178</id>
+        <label>Sainte-Colombe Septveilles</label>
+    </station>
+    <station>
+        <id>87545210</id>
+        <label>Sainte-Genevieve des Bois</label>
+    </station>
+    <station>
+        <id>87682542</id>
+        <label>Saint-Fargeau</label>
+    </station>
+    <station>
+        <id>87366922</id>
+        <label>Saint-Germain en Laye Bel Air Fourqueux</label>
+    </station>
+    <station>
+        <id>87382804</id>
+        <label>Saint Germain en Laye GC</label>
+    </station>
+    <station>
+        <id>87276170</id>
+        <label>Saint-Gratien</label>
+    </station>
+    <station>
+        <id>87276402</id>
+        <label>Saint-Leu d'Esserent</label>
+    </station>
+    <station>
+        <id>87276600</id>
+        <label>Saint-Leu la Foret</label>
+    </station>
+    <station>
+        <id>87682294</id>
+        <label>Saint-Mammes</label>
+    </station>
+    <station>
+        <id>87545350</id>
+        <label>Saint-Martin d'Etampes</label>
+    </station>
+    <station>
+        <id>87547315</id>
+        <label>Saint-Michel Notre Dame</label>
+    </station>
+    <station>
+        <id>87545202</id>
+        <label>Saint-Michel sur Orge</label>
+    </station>
+    <station>
+        <id>87382481</id>
+        <label>Saint-Nom la Breteche F. de Marly</label>
+    </station>
+    <station>
+        <id>87271247</id>
+        <label>Saint-Ouen</label>
+    </station>
+    <station>
+        <id>87276105</id>
+        <label>Saint-Ouen l'Aumene</label>
+    </station>
+    <station>
+        <id>87337980</id>
+        <label>Saint-Ouen l'Aumene Liesse</label>
+    </station>
+    <station>
+        <id>87381426</id>
+        <label>Saint-Ouen l'Aumene Quartier de l'Eglise</label>
+    </station>
+    <station>
+        <id>87393843</id>
+        <label>Saint-Quentin en Y. Montigny le B.</label>
+    </station>
+    <station>
+        <id>87276188</id>
+        <label>Sannois</label>
+    </station>
+    <station>
+        <id>87381186</id>
+        <label>Santeuil le Perchay</label>
+    </station>
+    <station>
+        <id>87276386</id>
+        <label>Sarcelles Saint-Brice</label>
+    </station>
+    <station>
+        <id>87386417</id>
+        <label>Sartrouville</label>
+    </station>
+    <station>
+        <id>87682187</id>
+        <label>Savigny le Temple Nandy</label>
+    </station>
+    <station>
+        <id>87545236</id>
+        <label>Savigny sur Orge</label>
+    </station>
+    <station>
+        <id>87545517</id>
+        <label>Sermaise</label>
+    </station>
+    <station>
+        <id>87272039</id>
+        <label>Seugy</label>
+    </station>
+    <station>
+        <id>87271445</id>
+        <label>Sevran Beaudottes</label>
+    </station>
+    <station>
+        <id>87271429</id>
+        <label>Sevran Livry</label>
+    </station>
+    <station>
+        <id>87393124</id>
+        <label>Sevres Rive gauche</label>
+    </station>
+    <station>
+        <id>87382341</id>
+        <label>Sevres Ville d'Avray</label>
+    </station>
+    <station>
+        <id>87684217</id>
+        <label>Souppes Cheteau Landon</label>
+    </station>
+    <station>
+        <id>87164780</id>
+        <label>Stade de France Saint-Denis</label>
+    </station>
+    <station>
+        <id>87382374</id>
+        <label>Suresnes Mont Valerien</label>
+    </station>
+    <station>
+        <id>87276261</id>
+        <label>Survilliers Fosses</label>
+    </station>
+    <station>
+        <id>87393454</id>
+        <label>Tacoignieres Richebourg</label>
+    </station>
+    <station>
+        <id>87276634</id>
+        <label>Taverny</label>
+    </station>
+    <station>
+        <id>87272054</id>
+        <label>Thieux Nantouillet</label>
+    </station>
+    <station>
+        <id>87682252</id>
+        <label>Thomery</label>
+    </station>
+    <station>
+        <id>87381822</id>
+        <label>Thun le Paradis</label>
+    </station>
+    <station>
+        <id>87116210</id>
+        <label>Tournan</label>
+    </station>
+    <station>
+        <id>87393231</id>
+        <label>Trappes</label>
+    </station>
+    <station>
+        <id>87381236</id>
+        <label>Trie Cheteau</label>
+    </station>
+    <station>
+        <id>87381806</id>
+        <label>Triel sur Seine</label>
+    </station>
+    <station>
+        <id>87116491</id>
+        <label>Trilport</label>
+    </station>
+    <station>
+        <id>87381178</id>
+        <label>Us</label>
+    </station>
+    <station>
+        <id>87116293</id>
+        <label>Vaires Torcy</label>
+    </station>
+    <station>
+        <id>87381798</id>
+        <label>Val d'Argenteuil</label>
+    </station>
+    <station>
+        <id>87113712</id>
+        <label>Val de Fontenay</label>
+    </station>
+    <station>
+        <id>87276535</id>
+        <label>Valmondois</label>
+    </station>
+    <station>
+        <id>87391532</id>
+        <label>Vanves Malakoff</label>
+    </station>
+    <station>
+        <id>87393538</id>
+        <label>Vauboyen</label>
+    </station>
+    <station>
+        <id>87276626</id>
+        <label>Vaucelles</label>
+    </station>
+    <station>
+        <id>87382267</id>
+        <label>Vaucresson</label>
+    </station>
+    <station>
+        <id>87381814</id>
+        <label>Vaux sur Seine</label>
+    </station>
+    <station>
+        <id>87116079</id>
+        <label>Verneuil l'Etang</label>
+    </station>
+    <station>
+        <id>87386656</id>
+        <label>Vernouillet Verneuil</label>
+    </station>
+    <station>
+        <id>87682468</id>
+        <label>Vernou sur Seine</label>
+    </station>
+    <station>
+        <id>87393009</id>
+        <label>Versailles Chantiers</label>
+    </station>
+    <station>
+        <id>87393157</id>
+        <label>Versailles Chateau Rive Gauche</label>
+    </station>
+    <station>
+        <id>87382861</id>
+        <label>Versailles Rive Droite</label>
+    </station>
+    <station>
+        <id>87271437</id>
+        <label>Vert Galant</label>
+    </station>
+    <station>
+        <id>87276568</id>
+        <label>Viarmes</label>
+    </station>
+    <station>
+        <id>87681304</id>
+        <label>Vigneux sur Seine</label>
+    </station>
+    <station>
+        <id>87681619</id>
+        <label>Villabe</label>
+    </station>
+    <station>
+        <id>87272021</id>
+        <label>Villaines</label>
+    </station>
+    <station>
+        <id>87683102</id>
+        <label>Villeneuve la Guyard</label>
+    </station>
+    <station>
+        <id>87545277</id>
+        <label>Villeneuve le Roi</label>
+    </station>
+    <station>
+        <id>87681825</id>
+        <label>Villeneuve Saint-Georges</label>
+    </station>
+    <station>
+        <id>87681809</id>
+        <label>Villeneuve Triage</label>
+    </station>
+    <station>
+        <id>87386649</id>
+        <label>Villennes sur Seine</label>
+    </station>
+    <station>
+        <id>87271510</id>
+        <label>Villeparisis Mitry le Neuf</label>
+    </station>
+    <station>
+        <id>87271452</id>
+        <label>Villepinte</label>
+    </station>
+    <station>
+        <id>87393413</id>
+        <label>Villepreux les Clayes</label>
+    </station>
+    <station>
+        <id>87276220</id>
+        <label>Villiers le Bel Gonesse Arnouville</label>
+    </station>
+    <station>
+        <id>87116749</id>
+        <label>Villiers Montbarbin</label>
+    </station>
+    <station>
+        <id>87393884</id>
+        <label>Villiers Neauphle Pontchartrain</label>
+    </station>
+    <station>
+        <id>87113795</id>
+        <label>Villiers sur Marne Le Plessis Trevise</label>
+    </station>
+    <station>
+        <id>87382887</id>
+        <label>Viroflay Rive Droite</label>
+    </station>
+    <station>
+        <id>87393215</id>
+        <label>Viroflay Rive Gauche</label>
+    </station>
+    <station>
+        <id>87681312</id>
+        <label>Viry Chetillon</label>
+    </station>
+    <station>
+        <id>87545293</id>
+        <label>Vitry sur Seine</label>
+    </station>
+    <station>
+        <id>87682500</id>
+        <label>Vosves</label>
+    </station>
+    <station>
+        <id>87682443</id>
+        <label>Vulaines sur Seine Samoreau</label>
+    </station>
+    <station>
+        <id>87682112</id>
+        <label>Yerres</label>
+    </station>
+</stations>

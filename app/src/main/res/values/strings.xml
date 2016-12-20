@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Transportif.io</string>
+    <string name="textChooseStation">Please select a Transillien Station</string>
+    <string name="buttonChooseStation">Show departures</string>
+    <string name="hintChooseStation">Station...</string>
+    <string name="action_reload">Reload</string>
+    <string name="reload_toast">Schedule Updated!</string>
+    <string name="download_toast">Schedule Downloaded!</string>
+    <string name="nostation_alert_title">No Station</string>
+    <string name="nostation_alert_text">This station doesn\'t exist !</string>
+    <string name="nostation_alert_button">OK</string>
+    <string name="buttonSeeUsOnMaps">Find us on Maps</string>
+</resources>

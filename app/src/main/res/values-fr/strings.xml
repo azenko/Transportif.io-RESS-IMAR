@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Transportif.io</string>
+    <string name="textChooseStation">Choisissez une gare Transilienne</string>
+    <string name="buttonChooseStation">Afficher les départs</string>
+    <string name="hintChooseStation">Gare...</string>
+    <string name="action_reload">ReCharger</string>
+    <string name="reload_toast">Horaires mis à jour !</string>
+    <string name="download_toast">Horaires récupérés !</string>
+    <string name="nostation_alert_title">Gare Inexistante</string>
+    <string name="nostation_alert_text">Cette gare n\'a pas été trouvée!</string>
+    <string name="nostation_alert_button">OK</string>
+    <string name="buttonSeeUsOnMaps">Nous trouver sur Maps</string>
+</resources>
